@@ -17,7 +17,7 @@ def getGeneralInfo(wrestlerID: int) -> Tuple[pd.DataFrame, pd.DataFrame]:
             success, GeneralInfo, Facts
     """
     A = requests.get('https://www.wrestlingdata.com/index.php?befehl=bios&wrestler=%d' % wrestlerID)
-    print(wrestlerID)
+    #print(wrestlerID)
     wrestler = BeautifulSoup(A.text, 'html.parser')
     if wrestler.find(title="General Information") is None:
         return 1, None, None
@@ -70,6 +70,7 @@ def getSample(sample_indices: List[int]) -> Tuple[pd.DataFrame, pd.DataFrame]:
     sample_GeneralInfo = [None for _ in range(len(sample_indices))]
     sample_Facts = [None for _ in range(len(sample_indices))]
     for i in range(len(sample_indices)):
+        print(i)
         run_res, temp_gen_info, temp_facts = getGeneralInfo(sample_indices[i])
         # There are codes for which there's no wrestler
         # This is the amazing way I deal with that!
