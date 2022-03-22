@@ -1,0 +1,897 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.5.0" title="Shotcut version 22.01.30" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="0" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <chain id="chain0" out="00:02:56.920">
+    <property name="length">00:02:56.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/lolco/Downloads/John Cena - The Time Is Now (Entrance Theme).mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3ec35ea06e9c377a78196e34f689af41</property>
+  </chain>
+  <chain id="chain1" out="00:00:09.800">
+    <property name="length">00:00:09.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/intro_recording.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ef73cfdb4ae3cafe6f2d7916e87ef318</property>
+  </chain>
+  <chain id="chain2" out="00:00:10.800">
+    <property name="length">00:00:10.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/meltzer_explanation.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7fc9821490af1e97a0ef78eb47e77188</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">meltzer_explanation.m4a</property>
+  </chain>
+  <chain id="chain3" out="00:00:11.280">
+    <property name="length">00:00:11.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/scraping info.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6ebdf5d1797ecbb0424775238a639724</property>
+  </chain>
+  <chain id="chain4" out="00:00:06.600">
+    <property name="length">00:00:06.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/merging_data_was_pain.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">98549a99fe9c8350bae8070610ff16c0</property>
+  </chain>
+  <chain id="chain5" out="00:00:01.680">
+    <property name="length">00:00:01.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (3).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8c20867dcf0b58b830c9b703dc989199</property>
+  </chain>
+  <chain id="chain6" out="00:00:02.640">
+    <property name="length">00:00:02.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (4).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">1884778bacdc9e7edab7ab4a07a6238b</property>
+  </chain>
+  <chain id="chain7" out="00:00:02.360">
+    <property name="length">00:00:02.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (5).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">89f06092260004295265cda4344aa3ea</property>
+  </chain>
+  <chain id="chain8" out="00:00:01.840">
+    <property name="length">00:00:01.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (6).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fa541c4a860a3cbc055fa4eb9d3c8fe1</property>
+  </chain>
+  <chain id="chain9" out="00:00:02.080">
+    <property name="length">00:00:02.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (7).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ac94e21416952a6029cc402a1a542f9b</property>
+  </chain>
+  <chain id="chain10" out="00:00:02.000">
+    <property name="length">00:00:02.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (2).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">03656d87806f2e179ec5717a4f9a1054</property>
+  </chain>
+  <chain id="chain11" out="00:00:04.120">
+    <property name="length">00:00:04.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/manually_fix_good.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">071d562bedeb952bd6190667ae6b9e10</property>
+  </chain>
+  <chain id="chain12" out="00:00:06.840">
+    <property name="length">00:00:06.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/feature_engineering.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e5ace0a7100e3abebbc901cb4506c480</property>
+  </chain>
+  <chain id="chain13" out="00:00:07.280">
+    <property name="length">00:00:07.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/rf_model.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2d4a43c2441e45f1268eab28762f6d63</property>
+  </chain>
+  <chain id="chain14" out="00:00:08.880">
+    <property name="length">00:00:08.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/fp_analysis_and_rf_ignored.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9fd32691cfe05e4d16547ee3188099e4</property>
+  </chain>
+  <chain id="chain15" out="00:00:21.680">
+    <property name="length">00:00:21.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/model_results.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b891cca3375d190b309f7a2407b2c109</property>
+  </chain>
+  <chain id="chain16" out="00:00:05.680">
+    <property name="length">00:00:05.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/super_jerry.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c4370a6c494cb5ac2a866c18da19a28f</property>
+  </chain>
+  <chain id="chain17" out="00:00:07.320">
+    <property name="length">00:00:07.360</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/graphs_audio.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4f3465b9c73a1cb584d0cb9da0f1fdbe</property>
+  </chain>
+  <chain id="chain18" out="00:00:06.040">
+    <property name="length">00:00:06.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/final secs.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3763e42ad301f3a01072691adfba5aab</property>
+  </chain>
+  <chain id="chain19" out="00:00:05.320">
+    <property name="length">00:00:05.360</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/feature_engineering_shorter.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">40cde3916c48cd8e19979ed3b90be372</property>
+  </chain>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:02:56.920"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:09.800"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:00:10.800"/>
+    <entry producer="chain3" in="00:00:00.000" out="00:00:11.280"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:00:06.600"/>
+    <entry producer="chain5" in="00:00:00.000" out="00:00:01.680"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:00:02.640"/>
+    <entry producer="chain7" in="00:00:00.000" out="00:00:02.360"/>
+    <entry producer="chain8" in="00:00:00.000" out="00:00:01.840"/>
+    <entry producer="chain9" in="00:00:00.000" out="00:00:02.080"/>
+    <entry producer="chain10" in="00:00:00.000" out="00:00:02.000"/>
+    <entry producer="chain11" in="00:00:00.000" out="00:00:04.120"/>
+    <entry producer="chain12" in="00:00:00.000" out="00:00:06.840"/>
+    <entry producer="chain13" in="00:00:00.000" out="00:00:07.280"/>
+    <entry producer="chain14" in="00:00:00.000" out="00:00:08.880"/>
+    <entry producer="chain15" in="00:00:00.000" out="00:00:21.680"/>
+    <entry producer="chain16" in="00:00:00.000" out="00:00:05.680"/>
+    <entry producer="chain17" in="00:00:00.000" out="00:00:07.320"/>
+    <entry producer="chain18" in="00:00:00.000" out="00:00:06.040"/>
+    <entry producer="chain19" in="00:00:00.000" out="00:00:05.320"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:02:46.600">
+    <property name="length">00:02:46.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:02:46.600"/>
+  </playlist>
+  <chain id="chain20" out="00:00:04.080">
+    <property name="length">00:00:04.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/lolco/Downloads/reface-2022-03-22-12-55-24.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">0597c6e53968544d304eafa89cea63bc</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">reface-2022-03-22-12-55-24.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lolco/Downloads/reface-2022-03-22-01-25-29.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-03-22T12:37:38</property>
+    <property name="shotcut:hash">03d35fa4fff4fa60f660c130c4c5e344</property>
+    <property name="shotcut:caption">reface-2022-03-22-01-25-29.jpg</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor0" in="00:00:00.000" out="00:00:00.040">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain20" in="00:00:04.040" out="00:00:04.080"/>
+    <track producer="producer0" in="00:00:00.000" out="00:00:00.040"/>
+    <transition id="transition0" out="00:00:00.040">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.040">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer1" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/lolco/Downloads/meltzer_5_star.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-03-22T12:49:03</property>
+    <property name="shotcut:caption">meltzer_5_star.png</property>
+    <property name="shotcut:hash">7aa5fb45d066f955d3c8810aedd21d10</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/lolco/Downloads/worldtitles_original.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-03-22T12:50:02</property>
+    <property name="shotcut:caption">worldtitles_original.jpg</property>
+    <property name="shotcut:hash">b7879668f3474f7ffa5f74d1c0505cd6</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/lolco/Downloads/meltzer_5_star.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-03-22T12:49:03</property>
+    <property name="shotcut:caption">meltzer_5_star.png</property>
+    <property name="shotcut:hash">7aa5fb45d066f955d3c8810aedd21d10</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <chain id="chain21" out="00:00:14.880">
+    <property name="length">00:00:14.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/lolco/Desktop/reface-2022-03-22-05-01-07.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">005797c91beee0bc6e3d31fbc41bf72a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">reface-2022-03-22-05-01-07.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <producer id="producer4" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">00:00:04.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">0.7:C:/Users/lolco/Downloads/reface-2022-03-21-01-39-55.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">0.7</property>
+    <property name="warp_resource">C:/Users/lolco/Downloads/reface-2022-03-21-01-39-55.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">1e2096559c8aa56f26c3e8a60b461717</property>
+    <property name="shotcut:caption">reface-2022-03-21-01-39-55.mp4 (0.7x)</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain20" in="00:00:00.000" out="00:00:04.000"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.040"/>
+    <entry producer="producer0" in="00:00:00.080" out="00:00:08.600"/>
+    <entry producer="producer1" in="00:00:00.120" out="00:00:04.480"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:02.880"/>
+    <entry producer="producer3" in="00:00:07.440" out="00:00:10.360"/>
+    <blank length="00:01:31.000"/>
+    <entry producer="chain21" in="00:00:09.280" out="00:00:13.360"/>
+    <blank length="00:00:03.840"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <chain id="chain22" out="00:02:56.920">
+    <property name="length">00:02:56.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/lolco/Downloads/John Cena - The Time Is Now (Entrance Theme).mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3ec35ea06e9c377a78196e34f689af41</property>
+    <property name="shotcut:caption">John Cena - The Time Is Now (Entrance Theme).mp3</property>
+  </chain>
+  <chain id="chain23" out="00:02:56.920">
+    <property name="length">00:02:56.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/lolco/Downloads/John Cena - The Time Is Now (Entrance Theme).mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3ec35ea06e9c377a78196e34f689af41</property>
+    <property name="shotcut:caption">John Cena - The Time Is Now (Entrance Theme).mp3</property>
+    <filter id="filter0" in="00:00:13.680" out="00:00:22.280">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-45</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain24" out="00:02:56.920">
+    <property name="length">00:02:56.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/lolco/Downloads/John Cena - The Time Is Now (Entrance Theme).mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3ec35ea06e9c377a78196e34f689af41</property>
+    <property name="shotcut:caption">John Cena - The Time Is Now (Entrance Theme).mp3</property>
+    <filter id="filter1" in="00:00:22.960" out="00:02:56.920">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-45</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="chain22" in="00:00:09.640" out="00:00:13.640"/>
+    <entry producer="chain23" in="00:00:13.680" out="00:00:22.280"/>
+    <entry producer="chain24" in="00:00:23.000" out="00:02:56.920"/>
+  </playlist>
+  <chain id="chain25" out="00:00:09.800">
+    <property name="length">00:00:09.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/intro_recording.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ef73cfdb4ae3cafe6f2d7916e87ef318</property>
+    <property name="shotcut:caption">intro_recording.m4a</property>
+  </chain>
+  <chain id="chain26" out="00:00:10.800">
+    <property name="length">00:00:10.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/meltzer_explanation.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7fc9821490af1e97a0ef78eb47e77188</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">meltzer_explanation.m4a</property>
+  </chain>
+  <chain id="chain27" out="00:00:11.280">
+    <property name="length">00:00:11.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/scraping info.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6ebdf5d1797ecbb0424775238a639724</property>
+    <property name="shotcut:caption">scraping info.m4a</property>
+  </chain>
+  <chain id="chain28" out="00:00:06.600">
+    <property name="length">00:00:06.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/merging_data_was_pain.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">98549a99fe9c8350bae8070610ff16c0</property>
+    <property name="shotcut:caption">merging_data_was_pain.m4a</property>
+  </chain>
+  <chain id="chain29" out="00:00:02.080">
+    <property name="length">00:00:02.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (7).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ac94e21416952a6029cc402a1a542f9b</property>
+    <property name="shotcut:caption">Recording (7).m4a</property>
+  </chain>
+  <chain id="chain30" out="00:00:04.120">
+    <property name="length">00:00:04.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/manually_fix_good.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">071d562bedeb952bd6190667ae6b9e10</property>
+    <property name="shotcut:caption">manually_fix_good.m4a</property>
+  </chain>
+  <chain id="chain31" out="00:00:05.320">
+    <property name="length">00:00:05.360</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/feature_engineering_shorter.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">40cde3916c48cd8e19979ed3b90be372</property>
+    <property name="shotcut:caption">feature_engineering_shorter.m4a</property>
+  </chain>
+  <chain id="chain32" out="00:00:21.400">
+    <property name="length">00:00:21.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">d:/lolco/Documents/Sound recordings/explaining_ml_model.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">c457e7f05b8086f14444fa7ce72007eb</property>
+    <property name="shotcut:caption">explaining_ml_model.m4a</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain33" out="00:00:21.400">
+    <property name="length">00:00:21.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">d:/lolco/Documents/Sound recordings/explaining_ml_model.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">c457e7f05b8086f14444fa7ce72007eb</property>
+    <property name="shotcut:caption">explaining_ml_model.m4a</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain34" out="00:00:07.280">
+    <property name="length">00:00:07.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/rf_model.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2d4a43c2441e45f1268eab28762f6d63</property>
+    <property name="shotcut:caption">rf_model.m4a</property>
+  </chain>
+  <chain id="chain35" out="00:00:21.680">
+    <property name="length">00:00:21.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/model_results.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b891cca3375d190b309f7a2407b2c109</property>
+    <property name="shotcut:caption">model_results.m4a</property>
+  </chain>
+  <chain id="chain36" out="00:00:08.880">
+    <property name="length">00:00:08.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/fp_analysis_and_rf_ignored.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9fd32691cfe05e4d16547ee3188099e4</property>
+    <property name="shotcut:caption">fp_analysis_and_rf_ignored.m4a</property>
+  </chain>
+  <chain id="chain37" out="00:00:05.680">
+    <property name="length">00:00:05.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/super_jerry.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c4370a6c494cb5ac2a866c18da19a28f</property>
+    <property name="shotcut:caption">super_jerry.m4a</property>
+  </chain>
+  <chain id="chain38" out="00:00:07.320">
+    <property name="length">00:00:07.360</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/graphs_audio.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4f3465b9c73a1cb584d0cb9da0f1fdbe</property>
+    <property name="shotcut:caption">graphs_audio.m4a</property>
+  </chain>
+  <playlist id="playlist2">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A2</property>
+    <blank length="00:00:04.040"/>
+    <entry producer="chain25" in="00:00:00.680" out="00:00:09.280"/>
+    <entry producer="chain26" in="00:00:00.560" out="00:00:10.800"/>
+    <entry producer="chain27" in="00:00:00.560" out="00:00:11.280"/>
+    <entry producer="chain28" in="00:00:00.360" out="00:00:06.600"/>
+    <blank length="00:00:03.120"/>
+    <entry producer="chain29" in="00:00:00.640" out="00:00:01.600"/>
+    <entry producer="chain30" in="00:00:01.120" out="00:00:04.120"/>
+    <entry producer="chain31" in="00:00:00.360" out="00:00:04.480"/>
+    <entry producer="chain32" in="00:00:00.440" out="00:00:13.880"/>
+    <entry producer="chain33" in="00:00:15.360" out="00:00:20.800"/>
+    <entry producer="chain34" in="00:00:00.000" out="00:00:07.280"/>
+    <entry producer="chain35" in="00:00:00.000" out="00:00:21.680"/>
+    <entry producer="chain36" in="00:00:00.000" out="00:00:08.880"/>
+    <entry producer="chain37" in="00:00:00.000" out="00:00:05.680"/>
+    <blank length="00:00:04.120"/>
+    <entry producer="chain38" in="00:00:00.000" out="00:00:07.320"/>
+  </playlist>
+  <chain id="chain39" out="00:00:02.000">
+    <property name="length">00:00:02.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (2).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">03656d87806f2e179ec5717a4f9a1054</property>
+    <property name="shotcut:caption">Recording (2).m4a</property>
+  </chain>
+  <chain id="chain40" out="00:00:02.640">
+    <property name="length">00:00:02.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (4).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">1884778bacdc9e7edab7ab4a07a6238b</property>
+    <property name="shotcut:caption">Recording (4).m4a</property>
+  </chain>
+  <chain id="chain41" out="00:00:02.640">
+    <property name="length">00:00:02.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (4).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">1884778bacdc9e7edab7ab4a07a6238b</property>
+    <property name="shotcut:caption">Recording (4).m4a</property>
+    <filter id="filter2" in="00:00:01.840" out="00:00:02.640">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-1.6</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <playlist id="playlist3">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A3</property>
+    <blank length="00:00:40.000"/>
+    <entry producer="chain39" in="00:00:00.480" out="00:00:01.760"/>
+    <blank length="00:00:00.200"/>
+    <entry producer="chain40" in="00:00:00.640" out="00:00:01.800"/>
+    <entry producer="chain41" in="00:00:01.840" out="00:00:02.640"/>
+  </playlist>
+  <chain id="chain42" out="00:00:01.680">
+    <property name="length">00:00:01.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (3).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8c20867dcf0b58b830c9b703dc989199</property>
+    <property name="shotcut:caption">Recording (3).m4a</property>
+  </chain>
+  <chain id="chain43" out="00:00:02.360">
+    <property name="length">00:00:02.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/lolco/Documents/Sound recordings/Recording (5).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">89f06092260004295265cda4344aa3ea</property>
+    <property name="shotcut:caption">Recording (5).m4a</property>
+  </chain>
+  <playlist id="playlist4">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A4</property>
+    <blank length="00:00:41.040"/>
+    <entry producer="chain42" in="00:00:00.600" out="00:00:01.440"/>
+    <blank length="00:00:00.360"/>
+    <entry producer="chain43" in="00:00:00.800" out="00:00:01.920"/>
+  </playlist>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/lolco/Downloads/Screenshot 2022-03-22 171002.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-03-22T16:10:06</property>
+    <property name="shotcut:caption">Screenshot 2022-03-22 171002.png</property>
+    <property name="shotcut:hash">5ca1e2c0b8e82cf6402520dea0e76296</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter3" in="00:00:05.000" out="00:00:09.040">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:03.840=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:03.880</property>
+    </filter>
+    <filter id="filter4" in="00:00:05.000" out="00:00:09.040">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-4.65517 939.517 1920 132.964 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lolco/Downloads/transparent_graphs.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-03-22T16:42:22</property>
+    <property name="shotcut:hash">14599ab703b4481281c37af28feac2f2</property>
+    <property name="shotcut:caption">transparent_graphs.png</property>
+  </producer>
+  <playlist id="playlist5">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <blank length="00:01:53.960"/>
+    <entry producer="producer5" in="00:00:05.000" out="00:00:09.040"/>
+    <blank length="00:00:03.880"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <tractor id="tractor1" title="Shotcut version 22.01.30" in="00:00:00.000" out="00:02:46.600">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">0.838586</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <track producer="playlist2" hide="video"/>
+    <track producer="playlist3" hide="video"/>
+    <track producer="playlist4" hide="video"/>
+    <track producer="playlist5"/>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">5</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition8">
+      <property name="a_track">0</property>
+      <property name="b_track">6</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition9">
+      <property name="a_track">1</property>
+      <property name="b_track">6</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
